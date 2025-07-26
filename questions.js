@@ -137,7 +137,7 @@ const questions = [
       "Resistance of wire",
       "Current through resistor"
     ],
-    answer: "1"
+    answer: 1
   },
   {
     q: "Which material has a relative permittivity of exactly 1?",
@@ -187,7 +187,7 @@ const questions = [
       "Resistors",
       "Motors"
     ],
-    answer: "1"
+    answer: 1
   },
   {
     q: "Relative permittivity varies with:",
